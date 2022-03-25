@@ -2,7 +2,7 @@
 #include <DHTesp.h>
 #include <SSD1306.h>
 
-
+void readDHT22();
 
 
 DHTesp              dht;
